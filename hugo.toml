@@ -1,0 +1,26 @@
+baseURL = 'https://thv.iki.fi/'
+languageCode = 'fi-fi'
+title = 'Tommi Vainikainen'
+theme = 'ananke'
+
+resourceDir = "../resources"
+
+DefaultContentLanguage = "fi"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+date_format = "2. January 2006"
+text_color = ""
+author = "Tommi Vainikainen"
+favicon = ""
+site_logo = ""
+description = "Tommi Vainikainen"
+#background_color_class = "bg-black"
+recent_posts_number = 3
