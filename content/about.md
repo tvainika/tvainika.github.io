@@ -47,6 +47,9 @@ BlueSky
 Facebook
 : [Tommi Vainikainen](https://www.facebook.com/tvainika/)
 
+GitHub
+: [tvainika](https://github.com/tvainika)
+
 Instagram
 : [@tvainika](https://instagram.com/tvainika)
 
