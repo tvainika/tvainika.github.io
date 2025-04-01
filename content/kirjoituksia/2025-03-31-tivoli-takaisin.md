@@ -1,6 +1,6 @@
 ---
 title: "Tivoli takaisin Järvenpäähän"
-date: 2025-04-01T07:07:07+03:00
+date: 2025-03-31T23:07:07+03:00
 ---
 
 Erään jäätelöön liittyvän somepostaukseni yhteydessä minua
@@ -24,7 +24,7 @@ huvituksia ja ikimuistoisia hetkiä perheille. Monelle perheelle tivoli
 on ollut kevään merkkihetkiä herättäen kaupungin eloon.  Viime vuosien
 kehitys on kuitenkin johtanut tilanteeseen, jossa Järvenpäässä ei ole
 tarjota riittävän suurta kenttää, johon tivoli voisi saapua.  Tivoli
-on ilmoittanut tarvitsevansa 12–15 000 m² hiekka- tai asfalttikentän."
+on ilmoittanut tarvitsevansa 12–15&nbsp;000 m² hiekka- tai asfalttikentän."
 
 "Jotta tivoli voisi palata taas Järvenpäähän, tarvitaan sille
 tila. Tällaiselle kentälle/alueelle olisi varmasti käyttöä monissa

@@ -1,6 +1,6 @@
 ---
 title: "Hyvän hallinon rajoista"
-date: 2025-03-31T07:07:07+03:00
+date: 2025-03-20T07:07:07+02:00
 ---
 
 Kuluneella valtuustokaudella Järvenpäässä on poikkeuksellisesti
