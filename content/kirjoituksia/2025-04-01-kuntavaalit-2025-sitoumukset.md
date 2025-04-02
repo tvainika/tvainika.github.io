@@ -21,7 +21,7 @@ viihtyisämmän kaupunkitilan puolesta. Heihin liittyy myös
 Arkkitehtuurikapina-someryhmä.  Oma näkemykseni on, että Järvenpäähän
 saadaan kauniimpia rakennuksia mm. miettimällä pysäköntiä
 uudelleen. Aivan kaupungin keskustassa Tupalantiellä katutason sulkee
-umpiseinät ja pysäköintihallit.  Katutaso olisi noi ziljoonasti
+umpiseinät ja pysäköintihallit.  Katutaso olisi ziljoonasti
 kauniimpi kun vain kalliiksi tulevaa vähimmäispysäköintivaatimusta
 lievennettäisiin.  Autojen pysäköinti voidaan toteuttaa myös
 markkinaehtoisesti.
@@ -34,3 +34,5 @@ polkijoiden](https://www.kepo.fi) laatimat teesit pyöräilyyn
 panostamisen saralla.  Olen Keski-Uudenmaan polkijoiden puheenjohtaja,
 joten olin tässä myös valmistelemassa näitä teesejä.  Tällä kertaa
 teesit ovat yhteiset Pyöräliiton kanssa.
+
+![Pyöräilyn puolesta -kehyksellä varustettu kuva Tommista puku päällä pyöräilemässä](/Tommi_pyorailyn_puolesta.jpg)
