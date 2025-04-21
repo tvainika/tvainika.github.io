@@ -4,16 +4,8 @@ title = "Tommi Vainikainen"
 
 ### Tervetuloa sivuilleni!
 
-Olen ehdolla kuntavaaleissa Järvenpäässä sitoutumattomien
-yhteislistalla [Järvenpää Plus](https://www.jarvenpaaplus.fi).  Olen tällä hetkellä
-tarkastuslautakunnan jäsen jo toista valtuustokautta.
-
-Kiinnostukseni kohteita ovat kaupunkielämä, asuminen, liikenne, talous
-ja koulutus.  Näen Järvenpään kehittyvänä osana Helsingin seutua,
-jolla on itsenäinen identiteetti rakentuen niin syntyperäisten kuin
-junantuomien sulatusuunina.
-
 Olen näille sivuille koonnut tietoja minusta sekä kirjoituksiani,
-joista osa on julkaistu mielipiteinä paikallislehdessä.
+joista osa on julkaistu mielipiteinä paikallislehdessä.  Suurin osa kirjoituksista liittyy ehdokuutteeni kuntavaaleissa 2025 Järvenpäässä sitoutumattomien
+yhteislistalla [Järvenpää Plus](https://www.jarvenpaaplus.fi).  Plussan riveissä olen ollut tarkastuslautakunnan jäsen kaksi kautta 2017-2025.
 
 ![Tommi Vainikaisen kasvokuva](/tommi_2025.jpg)
